@@ -12,3 +12,10 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 20px;
+}
