@@ -8,7 +8,7 @@
 body {
     background-color: #fff;
     max-width: 100%;
-    margin: 30px;
+    margin: 15px;
     display: flex;
     flex-direction: column;
 }
@@ -19,6 +19,11 @@ body {
     justify-content: flex-end;
     gap: 20px;
 }
+
+.gmail, .imagens, .apps {
+    margin-top: 0.5rem;
+}
+
 
 .principal {
     display: flex;
