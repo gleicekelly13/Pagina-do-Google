@@ -91,4 +91,10 @@ header {
 .fa-microphone {
     padding: 15px;
     margin-left: 29rem;
+    color: rgb(25, 0, 255);
+}
+
+.fa-keyboard {
+    padding: 15px;
+    margin-left: 24rem;
 }
