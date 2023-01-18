@@ -79,7 +79,7 @@ header {
 .fa-magnifying-glass {
     padding: 15px;
     margin-left: -34rem;
-    color: #ccc;
+    color: #c6c9cd;
 }
 
 .fa-camera {
@@ -97,4 +97,5 @@ header {
 .fa-keyboard {
     padding: 15px;
     margin-left: 24rem;
+    color: #7b7b7b;
 }
