@@ -81,3 +81,9 @@ header {
     margin-left: -34rem;
     color: #ccc;
 }
+
+.fa-camera {
+    padding: 15px;
+    margin-left: 34rem;
+    color: rgb(25, 0, 255);
+}
