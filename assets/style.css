@@ -17,6 +17,7 @@ body {
 
 a:link {
     color: rgb(32, 33, 36);
+    cursor: pointer;
 }
 
 header {
@@ -86,16 +87,19 @@ header {
     padding: 15px;
     margin-left: 34rem;
     color: rgb(25, 0, 255);
+    cursor: pointer;
 }
 
 .fa-microphone {
     padding: 15px;
     margin-left: 29rem;
     color: rgb(25, 0, 255);
+    cursor: pointer;
 }
 
 .fa-keyboard {
     padding: 15px;
     margin-left: 24rem;
     color: #7b7b7b;
+    cursor: pointer;
 }
