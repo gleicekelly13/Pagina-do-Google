@@ -73,6 +73,11 @@ header {
 
 }
 
+.busca2:hover {
+    box-shadow: 1px 1px 5px 1px #ccc;
+
+}
+
 .busca1 i {
     position: absolute;
 }
