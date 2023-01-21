@@ -125,3 +125,13 @@ header {
     border: none;
     border-radius: 5px;
 }
+
+.botao-sorte {
+    width: 140px;
+    height: 30px;
+    background-color: #f8f9fa;
+    color: #3c4043;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 5px;
+}
