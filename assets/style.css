@@ -124,6 +124,7 @@ header {
     font-size: 0.9rem;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .botao-sorte {
@@ -134,4 +135,11 @@ header {
     font-size: 0.9rem;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
+
+.pesquisa-google:hover {
+    border: 1px solid #d9d9db;
+    box-shadow: 0.5px 0.5px 1px 0.5px #bec0c2;
+}
+    
