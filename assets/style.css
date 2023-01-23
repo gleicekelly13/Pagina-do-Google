@@ -143,3 +143,7 @@ header {
     box-shadow: 0.5px 0.5px 1px 0.5px #bec0c2;
 }
     
+.botao-sorte:hover {
+    border: 1px solid #d9d9db;
+    box-shadow: 0.5px 0.5px 1px 0.5px #bec0c2;
+}
