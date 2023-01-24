@@ -145,7 +145,7 @@ header {
 
 .rodape {
     padding: 15px 30px;
-    
-    margin-top: 10rem;
+    max-height: 100%;
+    margin-top: 14.1rem;
     background-color: #f2f2f2;
 }
