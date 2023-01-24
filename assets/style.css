@@ -47,16 +47,11 @@ header {
     
 }
 
-
 .principal {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
-}
-
-.google {
-    
 }
 
 .busca1 {
@@ -146,4 +141,8 @@ header {
 .botao-sorte:hover {
     border: 1px solid #d9d9db;
     box-shadow: 0.5px 0.5px 1px 0.5px #bec0c2;
+}
+
+.rodape {
+    margin-top: 15rem;
 }
