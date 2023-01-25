@@ -26,25 +26,31 @@ header {
 }
 
 .cabecalho {
-    display: flex;
+    position: absolute;
+    top: 0px;
+    height: 0px;
+    margin-top: 1rem;
+    right: 0px;
+    margin-right: 1rem;
+    /*display: flex;
     flex-direction: row;
-    padding: 10px;
-    align-content: space-between;
-    gap: 10px;
-    font-size: 0.8rem;
+    margin: 1rem
+    align-content: space-between;*/
+    gap: 20px;
+    font-size: 0.8rem;*/
 }
 
 .gmail, .imagens, .apps {
-    margin-top: 0.5rem;
+   margin-top: 0.5rem;
     
 }
 
-.gmail, .imagens {
-    margin-right: 1.5rem;
+.imagens {
+    margin-right: 0.7rem;
 }
 
 .apps, .login {
-    margin-right: 0.2rem;
+    /*margin-right: 0.2rem;*/
     
 }
 
@@ -57,7 +63,7 @@ header {
 }
 
 .google {
-   
+    
 }
 
 .busca1 {
