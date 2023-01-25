@@ -37,7 +37,7 @@ header {
     margin: 1rem
     align-content: space-between;*/
     gap: 20px;
-    font-size: 0.8rem;*/
+    font-size: 0.8rem;
 }
 
 .gmail, .imagens, .apps {
@@ -47,11 +47,6 @@ header {
 
 .imagens {
     margin-right: 0.7rem;
-}
-
-.apps, .login {
-    /*margin-right: 0.2rem;*/
-    
 }
 
 .principal {
@@ -118,6 +113,7 @@ header {
 .botoes {
     display: flex;
     flex-direction: row;
+    margin-top: 2rem;
     gap: 10px;
 
 }
