@@ -166,6 +166,7 @@ header {
     /*background-color: #f2f2f2;*/
     margin-top: 15rem;
     background-color: #f2f2f2;
+    text-decoration: none;
     
 }
 
@@ -179,4 +180,14 @@ header {
 .f2 {
     padding: 15px 30px;
     font-size: 15px;
+    
+}
+
+a {
+    color: #70757a;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
 }
