@@ -76,8 +76,8 @@ header {
 }
 
 .busca2 {
-    width: 35rem;
-    height: 2.7rem;
+    width: 36rem;
+    height: 2.9rem;
     border: 1px solid #ccc;
     border-radius: 25px;
 
@@ -94,27 +94,27 @@ header {
 
 .fa-magnifying-glass {
     padding: 15px;
-    margin-left: -34rem;
+    margin-left: -33rem;
     color: #c6c9cd;
 }
 
 .fa-camera {
     padding: 15px;
-    margin-left: 34rem;
+    margin-left: 33rem;
     color: rgb(25, 0, 255);
     cursor: pointer;
 }
 
 .fa-microphone {
     padding: 15px;
-    margin-left: 29rem;
+    margin-left: 28rem;
     color: rgb(25, 0, 255);
     cursor: pointer;
 }
 
 .fa-keyboard {
     padding: 15px;
-    margin-left: 24rem;
+    margin-left: 23rem;
     color: #7b7b7b;
     cursor: pointer;
 }
