@@ -76,7 +76,7 @@ header {
 }
 
 .busca2 {
-    width: 36rem;
+    width: 36.5rem;
     height: 2.9rem;
     border: 1px solid #ccc;
     border-radius: 25px;
@@ -93,9 +93,10 @@ header {
 }
 
 .fa-magnifying-glass {
-    padding: 15px;
-    margin-left: -33rem;
+    padding: 16px;
+    margin-left: -33.5rem;
     color: #c6c9cd;
+    font-size: 14px;
 }
 
 .fa-camera {
