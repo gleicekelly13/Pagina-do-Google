@@ -41,8 +41,16 @@ header {
 }
 
 .gmail, .imagens, .apps {
-   margin-top: 0.5rem;
+   margin-top: 0.2rem;
     
+}
+
+.gmail, .imagens {
+    margin-top: 0.4rem;
+}
+
+.gmail {
+    margin-right: -0.3rem;
 }
 
 .imagens {
