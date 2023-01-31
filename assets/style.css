@@ -16,7 +16,6 @@ body {
 }
 
 a:link {
-    color: rgb(32, 33, 36);
     cursor: pointer;
 }
 
@@ -59,10 +58,6 @@ header {
     
 }
 
-.login {
-    margin-bottom: rem;
-}
-
 .imagens:hover {
     text-decoration: underline;
 }
@@ -80,6 +75,7 @@ header {
 
 .google {
     margin-top: 2.5rem;
+    
 }
 
 .busca1 {
@@ -92,7 +88,7 @@ header {
     width: 36.5rem;
     height: 2.9rem;
     border: 1px solid #dfe1e5;
-    border-radius: 25px;
+    border-radius: 25px;;
 
 }
 
@@ -124,6 +120,7 @@ header {
     margin-left: 28rem;
     color: rgb(25, 0, 255);
     cursor: pointer;
+    
 }
 
 .fa-keyboard {
