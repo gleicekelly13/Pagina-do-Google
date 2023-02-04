@@ -7,3 +7,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/216699476-0a43a086-260c-475d-b0d4-b60368a6ae6c.png" width="700">
 </div>
+<br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+
