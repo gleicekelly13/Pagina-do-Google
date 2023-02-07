@@ -218,11 +218,16 @@ a:hover {
     font-size: 14px;
 
 }
-
-@media screen and (min-width: 800px) and (max-width: 1200px) {
+@media screen and (min-width: 801px) {
     .cabecalho {
-        max-width: 100%;
-        position: absolute;
+        display: flex;
+        justify-content: flex-start;
         margin-right: 1rem;
     }
+
+    .f3 {
+        margin-left: 8rem;
+        font-size: 12px;
+    }
+
 }
