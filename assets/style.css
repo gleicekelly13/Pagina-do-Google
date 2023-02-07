@@ -225,9 +225,13 @@ a:hover {
         margin-right: 1rem;
     }
 
+    .f2 {
+        font-size: 11.5px;
+    }
+
     .f3 {
         margin-left: 8rem;
-        font-size: 12px;
+        font-size: 11.5px;
     }
 
 }
