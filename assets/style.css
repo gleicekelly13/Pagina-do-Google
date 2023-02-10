@@ -254,6 +254,18 @@ a:hover {
     
     }
 
+    .google {
+        font-size: 10px;
+    }
+
+    .busca2 {
+        position: relative;
+        width: 20.5rem;
+
+    }
+
+
+
     .f2 {
         font-size: 12px;
         margin-left: -1rem;
