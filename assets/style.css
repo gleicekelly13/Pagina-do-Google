@@ -264,6 +264,12 @@ a:hover {
         height: 2rem;
     }
 
+    .fa-magnifying-glass {
+        margin-left: -18rem;
+        padding: 11px;
+        font-size: 12px;
+    }
+
 
 
     .f2 {
