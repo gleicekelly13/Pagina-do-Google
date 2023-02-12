@@ -279,7 +279,13 @@ a:hover {
     .fa-microphone {
         margin-left: 14rem;
         padding: 10px;
-        font-size: 14px;
+        font-size: 13px;
+    }
+
+    .fa-keyboard {
+        margin-left: 10rem;
+        padding: 10px;
+        font-size: 13px;
     }
 
 
