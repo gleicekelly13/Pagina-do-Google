@@ -260,7 +260,7 @@ a:hover {
     }
 
     .google {
-        font-size: 10px;
+        margin-top: 5rem;
     }
 
     .busca2 {
@@ -304,4 +304,13 @@ a:hover {
         font-size: 10px;
     }
    
+}
+
+@media screen and (min-width: 375px) and (max-width: 480px) {
+   .body {
+    max-width: 100%;
+    height: auto;
+   }
+
+
 }
