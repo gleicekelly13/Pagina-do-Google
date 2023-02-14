@@ -223,9 +223,14 @@ a:hover {
     .cabecalho {
         display: flex;
         justify-content: flex-start;
-        margin-right: 7rem;
+        margin-right: 1rem;
     
     }
+
+    .google {
+        margin-top: 2.5rem;
+    
+    }    
 
     .rodape {
         margin-top: 8.5rem;
@@ -241,7 +246,7 @@ a:hover {
     }
 
     .f3 {
-        margin-left: 5rem;
+        margin-left: 3rem;
         font-size: 11.5px;
         
     }
