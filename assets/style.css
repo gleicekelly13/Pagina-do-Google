@@ -241,8 +241,13 @@ a:hover {
         margin-top: 0.75rem;
     }
 
+    .f1 {
+        padding-top: 1rem;
+    }
+
     .f2 {
         font-size: 12.5px;
+        
     }
 
     .f3 {
