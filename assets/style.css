@@ -270,36 +270,6 @@ a:hover {
         
     }
 
-    .busca2 {
-        
-        width: 36.5rem;
-        height: 2.9rem;
-    }
-
-    .fa-magnifying-glass {
-        margin-left: -18rem;
-        padding: 11px;
-        font-size: 12px;
-    }
-
-    .fa-camera {
-        margin-left: 18rem;
-        padding: 10px;
-        font-size: 13px;
-    }
-
-    .fa-microphone {
-        margin-left: 14rem;
-        padding: 10px;
-        font-size: 13px;
-    }
-
-    .fa-keyboard {
-        margin-left: 10rem;
-        padding: 10px;
-        font-size: 13px;
-    }
-
     .rodape {
         margin-top: 8rem;
     }
