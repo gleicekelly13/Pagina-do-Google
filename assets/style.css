@@ -217,6 +217,10 @@ a:hover {
 
 }
 @media screen and (min-width: 801px) and (max-width: 1200px) {
+    .body {
+        max-width: 100%;
+    }
+
     .cabecalho {
         display: flex;
         justify-content: flex-start;
@@ -240,10 +244,11 @@ a:hover {
 
     .f1 {
         padding-top: 1rem;
+        font-size: 12px;
     }
 
     .f2 {
-        font-size: 12.5px;
+        font-size: 12px;
         
     }
 
