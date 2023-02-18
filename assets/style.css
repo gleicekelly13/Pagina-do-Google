@@ -234,7 +234,7 @@ a:hover {
     }    
 
     .rodape {
-        margin-top: 8rem;
+        margin-top: 9rem;
         
     }
 
@@ -249,12 +249,14 @@ a:hover {
 
     .f2 {
         font-size: 11px;
+        padding-top: 0.1rem;
         
     }
 
     .f3 {
         margin-left: 10rem;
-        font-size: 10px;
+        font-size: 10.1px;
+        padding-top: 0.1rem;
         
     }
 
