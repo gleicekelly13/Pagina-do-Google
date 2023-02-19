@@ -71,7 +71,6 @@ header {
 
 .google {
     margin-top: 2.5rem;
-    font-size: 1rem;
     
 }
 
@@ -217,10 +216,6 @@ a:hover {
 
 }
 @media screen and (min-width: 801px) and (max-width: 1200px) {
-    .body {
-        max-width: 100%;
-    }
-
     .cabecalho {
         display: flex;
         justify-content: flex-start;
