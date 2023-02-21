@@ -288,16 +288,22 @@ a:hover {
     }
 
     .fa-keyboard {
-        margin-left: 15rem;
+        margin-left: 16rem;
         font-size: 14px;
         padding: 13px;
     }
 
     .fa-microphone {
-        margin-left: 19rem;
+        margin-left: 19.5rem;
         padding: 13px;
         font-size: 14px;
     
+    }
+
+    .fa-camera {
+        margin-left: 23rem;
+        font-size: 14px;
+        padding: 13px;
     }
 
     .rodape {
