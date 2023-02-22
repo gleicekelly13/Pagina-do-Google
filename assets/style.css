@@ -70,7 +70,7 @@ header {
 }
 
 .google {
-    margin-top: 2.5rem;
+    margin-top: 4.2rem;
     
 }
 
@@ -168,7 +168,7 @@ header {
 
 .rodape {
     width: 100%;
-    margin-top: 15rem;
+    margin-top: 15.5rem;
     background-color: #f2f2f2;
     text-decoration: none;
     
@@ -220,13 +220,15 @@ a:hover {
         display: flex;
         justify-content: flex-start;
         margin-right: 1rem;
-    
+        
+        
     }
 
     .google {
         margin-top: 2rem;
-    
-    }    
+        margin-left: 17rem;
+        
+    }   
 
     .rodape {
         margin-top: 10rem;
@@ -273,7 +275,7 @@ a:hover {
     .google {
         margin-top: 2.5rem;
         margin-bottom: -0.9rem;
-        
+        margin-left: 6rem;
     }
 
     .busca2 {
