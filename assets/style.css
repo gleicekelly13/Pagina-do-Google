@@ -266,7 +266,13 @@ a:hover {
     }
 
     .pesquisa-google {
-        width: 110px;
+        width: 120px;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .botao-sorte {
+        width: 120px;
         height: 30px;
         font-size: 0.8rem;
     }
