@@ -260,6 +260,28 @@ a:hover {
 
 }
 
+@media screen and (min-width: 602px) {
+    .google {
+        
+    }
+
+    .pesquisa-google {
+        width: 110px;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .rodape {
+        
+    }
+
+    .f1 {
+        font-size: 11px;
+    }
+
+
+}
+
 @media screen and (min-width: 481px) and (max-width: 800px) {
     .body {
         display: flex;
@@ -275,7 +297,7 @@ a:hover {
     .google {
         margin-top: 2.5rem;
         margin-bottom: -0.9rem;
-        margin-left: 6rem;
+        
     }
 
     .busca2 {
