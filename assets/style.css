@@ -220,15 +220,13 @@ a:hover {
         display: flex;
         justify-content: flex-start;
         margin-right: 1rem;
-        
-        
+    
     }
 
     .google {
         margin-top: 2rem;
         margin-left: 2rem;
 
-        
     }   
 
     .botoes {
@@ -236,7 +234,7 @@ a:hover {
     }
 
     .rodape {
-        margin-top: 14rem;
+        margin-top: 12.2rem;
         
     }
 
