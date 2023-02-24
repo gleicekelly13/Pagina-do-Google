@@ -81,7 +81,7 @@ header {
 }
 
 .busca2 {
-    width: 36.5rem;
+    width: 36.6rem;
     height: 2.9rem;
     border: 1px solid #dfe1e5;
     border-radius: 25px;;
@@ -227,11 +227,16 @@ a:hover {
     .google {
         margin-top: 2rem;
         margin-left: 2rem;
+
         
     }   
 
+    .botoes {
+        margin-top: 2rem;
+    }
+
     .rodape {
-        margin-top: 12.2rem;
+        margin-top: 14rem;
         
     }
 
@@ -287,29 +292,6 @@ a:hover {
         padding-bottom: 0.5rem;
     }
 
-
-}
-
-@media screen and (min-width: 550px) {
-    .google {
-        padding-top: 0.7rem;
-    }
-
-    .botoes {
-        margin-top: 1rem;
-    }
-
-    .pesquisa-google {
-        width: 120px;
-        height: 30px;
-        font-size: 0.8rem;
-    }
-
-    .botao-sorte {
-        width: 120px;
-        height: 30px;
-        font-size: 0.8rem;
-    }
 
 }
 
