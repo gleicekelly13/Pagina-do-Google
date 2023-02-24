@@ -305,6 +305,12 @@ a:hover {
         font-size: 0.8rem;
     }
 
+    .botao-sorte {
+        width: 120px;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
 }
 
 @media screen and (min-width: 481px) and (max-width: 800px) {
