@@ -260,9 +260,9 @@ a:hover {
 
 }
 
-@media screen and (min-width: 602px) {
-    .google {
-        
+@media screen and (min-width: 602px) and (max-width: 800px) {
+    .botoes {
+        margin-top: 1rem;
     }
 
     .pesquisa-google {
