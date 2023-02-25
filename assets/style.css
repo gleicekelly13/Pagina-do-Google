@@ -379,4 +379,10 @@ a:hover {
         padding: 10px;
     }
 
+    .fa-keyboard {
+        margin-left: 10rem;
+        font-size: 12px;
+        padding: 12px;
+    }
+
 }
