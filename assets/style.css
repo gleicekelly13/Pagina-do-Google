@@ -385,4 +385,10 @@ a:hover {
         padding: 12px;
     }
 
+    .fa-microphone {
+        margin-left: 14rem;
+        padding: 10px;
+        font-size: 14px;
+    }
+
 }
