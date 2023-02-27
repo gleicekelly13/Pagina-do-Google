@@ -368,6 +368,10 @@ a:hover {
         max-width: 100%;
     }
 
+    .google {
+        margin-bottom: -0.7rem;
+    }
+
     .busca2 {
         width: 20rem;
         height: 2rem;
