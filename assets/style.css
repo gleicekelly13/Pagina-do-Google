@@ -407,4 +407,10 @@ a:hover {
         font-size: 0.7rem;
     }
 
+    .botao-sorte {
+        width: 100px;
+        height: 25px;
+        font-size: 0.7rem;
+    }
+
 }
