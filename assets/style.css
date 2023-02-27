@@ -401,4 +401,10 @@ a:hover {
         margin-top: 1rem;
     }
 
+    .pesquisa-google {
+        width: 100px;
+        height: 25px;
+        font-size: 0.7rem;
+    }
+
 }
