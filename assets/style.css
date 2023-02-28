@@ -167,7 +167,6 @@ header {
 }
 
 .rodape {
-    width: 100%;
     margin-top: 15.5rem;
     background-color: #f2f2f2;
     text-decoration: none;
@@ -366,6 +365,7 @@ a:hover {
 @media screen and (min-width: 376px) and (max-width: 480px) {
     .body {
         max-width: 100%;
+        
     }
 
     .google {
@@ -417,4 +417,9 @@ a:hover {
         font-size: 0.7rem;
     }
 
+    .f1 {
+        font-size: 11px;
+        margin-left: -1rem;
+        
+    }
 }
