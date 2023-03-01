@@ -428,4 +428,9 @@ a:hover {
     .f2 {
         font-size: 10px;
     }
+
+    .f3 {
+        font-size: 10px;
+        margin-left: -3rem;
+    }
 }
