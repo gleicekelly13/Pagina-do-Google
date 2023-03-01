@@ -418,8 +418,8 @@ a:hover {
     }
 
     .f1 {
-        font-size: 11px;
-        margin-left: -1rem;
+        font-size: 9px;
+        margin-left: -1.5rem;
         padding-top: 0.5rem;
         padding-bottom: 0.5rem;
         
@@ -427,6 +427,7 @@ a:hover {
 
     .f2 {
         font-size: 10px;
+        margin-left: -1rem;
     }
 
     .f3 {
