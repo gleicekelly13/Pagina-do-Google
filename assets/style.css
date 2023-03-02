@@ -427,12 +427,13 @@ a:hover {
 
     .f2 {
         font-size: 5px;
-        margin-left: -1rem;
-        gap: 0.5rem;
+        margin-left: 0.5rem;
+        gap: 1rem;
     }
 
     .f3 {
         font-size: 5px;
-        margin-left: -3rem;
+        margin-left: -1.5rem;
+        gap: 1rem;
     }
 }
