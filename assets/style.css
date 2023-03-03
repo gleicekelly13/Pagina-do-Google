@@ -376,8 +376,8 @@ a:hover {
 
     .fa-magnifying-glass {
         margin-left: -18rem;
-        font-size: 11px;
-        padding: 10px;
+        font-size: 9px;
+        padding: 3px;
     }
 
     .fa-keyboard {
@@ -423,16 +423,16 @@ a:hover {
     }
 
     .f2 {
-        font-size: 5px;
-        margin-left: 0.5rem;
-        gap: 1rem;
+        font-size: 6px;
+        margin-left: -0.5rem;
+        gap: 0.7rem;
         padding-top: 0.3rem;
     }
 
     .f3 {
-        font-size: 5px;
+        font-size: 6px;
         margin-left: -1.5rem;
-        gap: 1rem;
+        gap: 0.7rem;
         padding-top: 0.3rem;
     }
 }
