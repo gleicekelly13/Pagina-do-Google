@@ -368,13 +368,10 @@ a:hover {
         
     }
 
-    .google {
-        margin-bottom: -0.7rem;
-    }
-
     .busca2 {
         width: 20rem;
         height: 2rem;
+        margin-top: -0.4rem;
     }
 
     .fa-magnifying-glass {
@@ -429,11 +426,13 @@ a:hover {
         font-size: 5px;
         margin-left: 0.5rem;
         gap: 1rem;
+        padding-top: 0.3rem;
     }
 
     .f3 {
         font-size: 5px;
         margin-left: -1.5rem;
         gap: 1rem;
+        padding-top: 0.3rem;
     }
 }
