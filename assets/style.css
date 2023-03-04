@@ -383,20 +383,20 @@ a:hover {
 
     .fa-keyboard {
         margin-left: 10rem;
-        font-size: 12px;
-        padding: 4px;
+        font-size: 11px;
+        padding: 3px;
     }
 
     .fa-microphone {
         margin-left: 14rem;
         padding: 3px;
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .fa-camera {
         margin-left: 17.5rem;
-        padding: 4px;
-        font-size: 13px;
+        padding: 3px;
+        font-size: 11px;
     }
 
     .botoes {
