@@ -378,23 +378,24 @@ a:hover {
         margin-left: -18rem;
         font-size: 9px;
         padding: 3px;
+        
     }
 
     .fa-keyboard {
         margin-left: 10rem;
         font-size: 12px;
-        padding: 12px;
+        padding: 4px;
     }
 
     .fa-microphone {
         margin-left: 14rem;
-        padding: 10px;
+        padding: 3px;
         font-size: 14px;
     }
 
     .fa-camera {
         margin-left: 17.5rem;
-        padding: 11px;
+        padding: 16px;
         font-size: 13px;
     }
 
