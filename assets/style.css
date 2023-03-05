@@ -294,9 +294,8 @@ a:hover {
 
 @media screen and (min-width: 481px) and (max-width: 601px) {
     .body {
-        display: flex;
-        flex-direction: column;
-    
+        max-width: 100%;
+
     }
 
     .cabecalho {
@@ -311,8 +310,9 @@ a:hover {
     }
 
     .busca2 {
-        width: 26rem;
-        height: 2.5rem;
+        width: 22rem;
+        height: 2rem;
+        margin-top: 0.7rem;
     }
 
     .fa-magnifying-glass {
@@ -338,6 +338,23 @@ a:hover {
         margin-left: 23rem;
         font-size: 14px;
         padding: 13px;
+    }
+
+    .botoes {
+        margin-top: 1rem;
+    }
+
+    .pesquisa-google{
+        width: 100px;
+        height: 25px;
+        font-size: 0.7rem;
+    }
+
+    .botao-sorte {
+        width: 100px;
+        height: 25px;
+        font-size: 0.7rem;
+
     }
 
     .rodape {
