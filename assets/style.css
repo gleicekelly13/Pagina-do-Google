@@ -322,22 +322,22 @@ a:hover {
     }
 
     .fa-keyboard {
-        margin-left: 16rem;
-        font-size: 14px;
-        padding: 13px;
+        margin-left: 12rem;
+        font-size: 12px;
+        padding: 20px;
     }
 
     .fa-microphone {
-        margin-left: 19.5rem;
-        padding: 13px;
-        font-size: 14px;
+        margin-left: 16rem;
+        padding: 19px;
+        font-size: 13px;
     
     }
 
     .fa-camera {
-        margin-left: 23rem;
-        font-size: 14px;
-        padding: 13px;
+        margin-left: 19.5rem;
+        font-size: 13px;
+        padding: 19px;
     }
 
     .botoes {
