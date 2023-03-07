@@ -322,6 +322,12 @@ a:hover {
         font-size: 11px;
     }
 
+    .fa-keyboard {
+        margin-left: 14rem;
+        font-size: 14px;
+        padding: 11px;
+    }
+
     .botoes {
         margin-top: 1rem;
     }
