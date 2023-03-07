@@ -324,15 +324,21 @@ a:hover {
 
     .fa-keyboard {
         margin-left: 14rem;
-        font-size: 14px;
+        font-size: 13px;
         padding: 11px;
     }
 
     .fa-microphone {
         margin-left: 18rem;
-        padding: 11px;
-        font-size: 15px;
+        padding: 10px;
+        font-size: 14px;
     
+    }
+
+    .fa-camera {
+        margin-left: 22rem;
+        font-size: 13px;
+        padding: 11px;
     }
     
     .botoes {
