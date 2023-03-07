@@ -328,6 +328,13 @@ a:hover {
         padding: 11px;
     }
 
+    .fa-microphone {
+        margin-left: 18rem;
+        padding: 11px;
+        font-size: 15px;
+    
+    }
+    
     .botoes {
         margin-top: 1rem;
     }
