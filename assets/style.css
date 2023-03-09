@@ -363,7 +363,18 @@ a:hover {
     }
 
     .f1 {
-        font-size: 12px;
+        font-size: 11px;
+        padding-top: 0.6rem;
+        padding-bottom: 0.6rem;
+    }
+
+    .f2 {
+        font-size: 10px;
+    }
+
+    .f3 {
+        font-size: 10px;
+        margin-left: -2rem;
     }
 
 }
