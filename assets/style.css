@@ -358,6 +358,14 @@ a:hover {
 
     }
 
+    .rodape {
+        margin-top: 10rem;
+    }
+
+    .f1 {
+        font-size: 12px;
+    }
+
 }
 
 @media screen and (min-width: 481px) and (max-width: 600px) {
