@@ -215,7 +215,37 @@ a:hover {
 
 }
 
-@media screen and (min-width: 930px) and (max-width: 1279px) {
+/*@media screen and (min-width: 1280px) {
+    .body {
+        max-width: 100%;
+   }
+
+   .google {
+    margin-top: 4.4rem;
+   }
+
+   .busca2 {
+    width: 38rem;
+    height: 3rem;
+   }
+
+   .rodape {
+    margin-top: 19rem;
+   }
+
+   .f2 {
+    padding: 1rem;
+   }
+
+}*/
+
+@media screen and (min-width: 1191px) {
+    .rodape {
+        margin-top: 19.8rem;
+    }
+}
+
+@media screen and (min-width: 930px) and (max-width: 1190px) {
     .body {
         max-width: 100%;
     }
