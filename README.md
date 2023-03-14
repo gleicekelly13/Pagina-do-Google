@@ -1,5 +1,6 @@
 <h1 align="center">Página do Google</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Clone da página do Google, para praticar conceitos de HTML, CSS e posicionamento com flexbox.</p>
 <br>
 
 ## :desktop_computer: Desktop design
