@@ -220,10 +220,6 @@ a:hover {
         margin-top: 9.5rem;
     }
 
-    .f1 {
-        
-    }
-
     .f2 {
         gap: 1rem;
         margin-left: 5rem;
@@ -232,6 +228,16 @@ a:hover {
     .f3 {
         margin-left: 10rem;
         gap: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 973px) {
+    .rodape {
+        margin-top: 9.5rem;
+    }
+
+    .f3 {
+        margin-left: 6rem;
     }
 }
 
