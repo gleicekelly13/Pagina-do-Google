@@ -241,6 +241,15 @@ a:hover {
     }
 }
 
+@media screen and (max-width: 909px) {
+    .rodape {
+        margin-top: 9.5rem;
+    }
+
+    .f3 {
+        margin-left: 3rem;
+    }
+}
 
 
 
