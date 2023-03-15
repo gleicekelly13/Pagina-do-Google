@@ -386,7 +386,7 @@ a:hover {
 }
 
 
-@media screen and (width: 625px) {
+@media screen and (max-width: 625px) {
     .google {
         margin-top: 4rem;
     }
@@ -419,7 +419,28 @@ a:hover {
         margin-left: 21.5rem;
         font-size: 13px;
     }
+
+    .botoes {
+        margin-top: 1rem;
+    }
+
+    .rodape {
+        margin-top: 12.5rem;
+    }
+
+    .f1 {
+        margin-left: -0.8rem;
+    }
+
+    .f2 {
+        margin-left: 0.8rem;
+    }
+
+    .f3 {
+        margin-left: 0.8rem;
+    }
 }
+
 
 
 
