@@ -386,6 +386,42 @@ a:hover {
 }
 
 
+@media screen and (width: 625px) {
+    .google {
+        margin-top: 4rem;
+    }
+
+    .busca2 {
+        width: 24rem;
+        height: 2rem;
+    }
+
+    .fa-magnifying-glass {
+        margin-left: -22rem;
+        padding: 9px;
+        font-size: 10px;
+    }
+
+    .fa-keyboard {
+        padding: 10px;
+        margin-left: 15rem;
+        font-size: 13px;
+    }
+
+    .fa-microphone {
+        padding: 10px;
+        margin-left: 18.5rem;
+        font-size: 13px;
+    }
+
+    .fa-camera {
+        padding: 10px;
+        margin-left: 21.5rem;
+        font-size: 13px;
+    }
+}
+
+
 
 
 
