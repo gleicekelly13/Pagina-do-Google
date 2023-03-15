@@ -304,6 +304,38 @@ a:hover {
         margin-left: 25.5rem;
         font-size: 14px;
     }
+
+    .botoes {
+        margin-top: 1.5rem;
+    }
+
+    .pesquisa-google {
+        width: 120px;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .botao-sorte {
+        width: 120px;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .rodape {
+        margin-top: 12.5rem;
+    }
+
+    .f1 {
+        font-size: 12px;
+    }
+
+    .f2 {
+        font-size: 11px;
+    }
+
+    .f3 {
+        font-size: 11px;
+    }
 }
 
 
