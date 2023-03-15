@@ -353,6 +353,38 @@ a:hover {
 
 }
 
+@media screen and (max-width: 664px) {
+    .pesquisa-google {
+        width: 100px;
+        height: 30px;
+        font-size: 0.7rem;
+    }
+
+    .botao-sorte {
+        width: 100px;
+        height: 30px;
+        font-size: 0.7rem;
+    }
+
+    .rodape {
+        margin-top: 12.7rem;
+    }
+
+    .f1 {
+        font-size: 11px;
+    }
+
+    .f2 {
+        margin-left: 2rem;
+        font-size: 10px;
+    }
+
+    .f3 {
+        margin-left: 1rem;
+        font-size: 10px;
+    }
+}
+
 
 
 
