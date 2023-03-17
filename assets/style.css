@@ -504,7 +504,7 @@ a:hover {
 
 
 
-/*@media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 494px) {
     .cabecalho {
         font-size: 10px;
     }
@@ -551,13 +551,13 @@ a:hover {
     .pesquisa-google {
         width: 100px;
         height: 25px;
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
 
     .botao-sorte {
         width: 100px;
         height: 25px;
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
 
     .rodape {
@@ -573,14 +573,14 @@ a:hover {
     }
 
     .f2 {
-        font-size: 4.5px;
+        font-size: 4.9px;
         margin-left: -0.2rem;
         gap: 0.5rem;
         padding-top: 0.4rem;
     }
 
     .f3 {
-        font-size: 4.5px;
+        font-size: 4.9px;
         margin-left: -1rem;
         gap: 0.7rem;
         padding-top: 0.4rem;
