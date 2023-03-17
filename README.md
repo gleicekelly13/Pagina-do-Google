@@ -10,6 +10,13 @@
 </div>
 <br>
 
+## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/226067189-38e70b45-37d2-4434-8170-4b923ef89e6e.png" width="300">
+</div>
+<br>
+
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
 <h4>:white_check_mark: Mobile - EM ANDAMENTO</h4>
