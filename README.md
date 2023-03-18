@@ -23,7 +23,12 @@
 
 <br>
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<p>Praticar estrutura da página.</p>
 <p>Edição de ícones e imagens.</p>
+<p>Ajustamento dos ícones dentro do campo busca.</p>
+<p>Posicionamento dos elementos.</p>
+<p>Praticar responsividade.</p>
+
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
