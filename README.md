@@ -10,17 +10,33 @@
 </div>
 <br>
 
+## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/226067189-38e70b45-37d2-4434-8170-4b923ef89e6e.png" width="300">
+</div>
+<br>
+
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
-<h4>:white_check_mark: Mobile - EM ANDAMENTO</h4>
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 
 <br>
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<p>Praticar estrutura da página.</p>
+<p>Edição de ícones e imagens.</p>
+<p>Ajustamento dos ícones dentro do campo busca.</p>
+<p>Posicionamento dos elementos.</p>
+<p>Praticar responsividade.</p>
+
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
-
 <br>
-<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+
+# :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
